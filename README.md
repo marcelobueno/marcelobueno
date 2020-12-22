@@ -10,7 +10,7 @@
 I am passionate about technology and I want to build my career in development.*
 
 #### Where to find me:
-<a href="mailto:marcelo.f.bueno@hotmail.com" target="_blank"><img src="/img/email.png"></a>&emsp;<a href="https://marceloferrazbueno.com.br"  target="_blank"><img src="/img/site.png"></a>
+<a href="mailto:marcelo.f.bueno@hotmail.com" target="_blank"><img src="/img/email.png"></a>&emsp;<a href="https://marceloferrazbueno.com.br"  target="_blank"><img src="/img/site.png"></a>&emsp;<a href="https://www.linkedin.com/in/marcelofbueno/"><img src="/img/linkedin.png"></a>
 
 #### My Development stack:
 
