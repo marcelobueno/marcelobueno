@@ -2,7 +2,7 @@
 
 #### My name is Marcelo Ferraz Bueno 
 
-*I'am a PHP fullstack developer and actualy i'm living in Mauá - São Paulo.* <iframe src="https://giphy.com/embed/zCV6yYYnYZejS" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-zCV6yYYnYZejS">via GIPHY</a></p>
+*I'am a PHP fullstack developer and actualy i'm living in Mauá - São Paulo.* 
 <!--
 **marcelobueno/marcelobueno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
