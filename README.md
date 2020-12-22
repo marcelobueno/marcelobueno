@@ -2,9 +2,9 @@
   <img src="https://media0.giphy.com/media/xTiIzKsnjiilddXngI/giphy.gif?cid=ecf05e47b3cdb9b1ad8b419737dfad6577e0c5714d4bc72d&rid=giphy.gif">
 </p>
 
-## Hi there! Welcome to my page 😎
+# Hi there! Welcome to my page 😎
 
-#### My name is Marcelo Ferraz Bueno 
+#### My name is Marcelo Ferraz Bueno, i'm 27 years old and i live at Mauá - São Paulo, Brazil <img width="20px" src="https://www.infoescola.com/wp-content/uploads/2011/02/bandeira-do-brasil.gif"> 
 
 *I'm a PHP full stack developer and actually i'm living in Mauá - São Paulo* 
 
