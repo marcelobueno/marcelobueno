@@ -14,9 +14,9 @@ I am passionate about technology and I want to build my career in development.*
 
 #### My Development stack:
 
-##### Aplication
+#### Application
 <img src="/img/html.png">&emsp;<img src="/img/css.png">&emsp;<img src="/img/js.png">&emsp;<img src="/img/php.png">&emsp;<img src="/img/csharp.png">
-##### Data
+#### Data
 <img src="/img/mysql.png">&emsp;<img src="/img/oracle.png">
-##### Frameworks
+#### Frameworks
 <img src="/img/laravel.png">&emsp;<img src="/img/bootstrap.png">
