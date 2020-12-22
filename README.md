@@ -20,3 +20,8 @@ I am passionate about technology and I want to build my career in development.*
 <img src="/img/mysql.png">&emsp;<img src="/img/oracle.png">
 #### Frameworks
 <img src="/img/laravel.png">&emsp;<img src="/img/bootstrap.png">
+
+
+<p align="center">
+  <img src="/img/wallpaper.png">  
+</p>
