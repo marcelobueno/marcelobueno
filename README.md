@@ -13,4 +13,10 @@ I am passionate about technology and I want to build my career in development.*
 <a href="mailto:marcelo.f.bueno@hotmail.com" target="_blank"><img src="/img/email.png"></a>&emsp;<a href="https://marceloferrazbueno.com.br"  target="_blank"><img src="/img/site.png"></a>
 
 #### My Development stack:
-<img src="/img/html.png">&emsp;<img src="/img/css.png">&emsp;<img src="/img/js.png">&emsp;<img src="/img/php.png">&emsp;<img src="/img/csharp.png">
+
+##### Aplication
+<img src="/img/html.png">&emsp;<img src="/img/css.png">&emsp;<img src="/img/js.png">&emsp;<img src="/img/php.png">&emsp;<img src="/img/csharp.png">&emsp;<img src="/img/csharp.png">
+##### Data
+<img src="/img/mysql.png">&emsp;<img src="/img/oracle.png">
+##### Frameworks
+<img src="/img/laravel.png">&emsp;<img src="/img/bootstrap.png">
