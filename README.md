@@ -6,7 +6,7 @@
 
 #### My name is Marcelo Ferraz Bueno 
 
-*I'am a PHP fullstack developer and actualy i'm living in Mauá - São Paulo.* 
+*I'm a PHP full stack developer and actually i'm living in Mauá - São Paulo* 
 
 <!--<img align="left" src="https://media1.giphy.com/media/zCV6yYYnYZejS/giphy.gif?cid=ecf05e47sge107bxm43d38kmqdmtc2z232ock3b6tqn8pf0q&rid=giphy.gif">-->
 
