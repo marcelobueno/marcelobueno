@@ -6,7 +6,7 @@
 
 #### My name is Marcelo Ferraz Bueno, i'm 27 years old and i live at Mauá - São Paulo, Brazil <img width="20px" src="https://www.infoescola.com/wp-content/uploads/2011/02/bandeira-do-brasil.gif"> 
 
-*I'm a PHP full stack developer and actually i'm living in Mauá - São Paulo* 
+i'am a Information Security student at Universidade nove de julho - UNINOVE and at this course i was have my first contact with the development universe. 
 
 <!--<img align="left" src="https://media1.giphy.com/media/zCV6yYYnYZejS/giphy.gif?cid=ecf05e47sge107bxm43d38kmqdmtc2z232ock3b6tqn8pf0q&rid=giphy.gif">-->
 
