@@ -10,4 +10,4 @@
 I am passionate about technology and I want to build my career in development.*
 
 #### Where to find me:
-<img height="25px" src="https://pt.wizcase.com/wp-content/uploads/2020/02/Outlook-logo.jpg">
+<img src="/img/email.png">
