@@ -10,4 +10,5 @@
 I am passionate about technology and I want to build my career in development.*
 
 #### Where to find me:
-<img src="/img/email.png">
+<a href="mailto:marcelo.f.bueno@hotmail.com"><img src="/img/email.png"></a>  <img src="/img/site.png">
+
