@@ -12,7 +12,7 @@ como Desenvolvedor de Sistemas para a empresa GC do Brasil.*
 #### Contatos:
 <a href="mailto:marcelo.f.bueno@hotmail.com" target="_blank"><img src="/img/email.png"></a>&emsp;<a href="https://marceloferrazbueno.com.br"  target="_blank"><img src="/img/site.png"></a>&emsp;<a href="https://www.linkedin.com/in/marcelofbueno/"><img src="/img/linkedin.png"></a>
 
-#### Habilidades:
+<!-- #### Habilidades:
 
 #### Linguagens de programação
 <img src="/img/html.png">&emsp;<img src="/img/css.png">&emsp;<img src="/img/js.png">&emsp;<img src="/img/php.png">&emsp;<img src="/img/csharp.png">
@@ -25,3 +25,4 @@ como Desenvolvedor de Sistemas para a empresa GC do Brasil.*
 <p align="center">
   <img src="/img/wallpaper.png">  
 </p>
+ -->
