@@ -1,8 +1,6 @@
 # Olá, sou o Marcelo Bueno.
 - Formado em Segurança da Informação pela UNINOVE.
-- Desenvolvedor FullStack.
-- Atualmente trabalhando Fulltime, aberto a propostas.
-- Atualmente estudando tecnologias Front-end.
+- Tech Lead e Desenvolvedor FullStack.
 
 <hr/>
 
@@ -31,6 +29,8 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 </div>
 
 ## Bancos de Dados
@@ -61,8 +61,6 @@
 
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
