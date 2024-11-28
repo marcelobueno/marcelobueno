@@ -67,8 +67,8 @@
 <hr/>
 
 <div align="center">
-  <img height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelobueno"/>
+  <!-- <img height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelobueno"/>
   <br/>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=marcelobueno&show_icons=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobueno&langs_count=4"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobueno&langs_count=4"/> -->
 </div>
