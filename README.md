@@ -1,3 +1,5 @@
+![Banner](https://github.com/marcelobueno/marcelobueno/blob/main/img/banner-github.png)
+
 # 👋 Olá, eu sou o Marcelo Bueno
 
 💻 **Tech Lead** & **Desenvolvedor FullStack** especializado em arquiteturas escaláveis e alta performance.  
